@@ -1,1 +1,1 @@
-# electrumg-locale
+locale files for electrum
