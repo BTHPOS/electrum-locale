@@ -1,0 +1,1 @@
+# electrumg-locale
